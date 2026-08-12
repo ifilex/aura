@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/checkwebgpu.ts","./src/codeblock.tsx","./src/llm.ts","./src/main.tsx","./src/redux/llmslice.ts","./src/redux/store.ts","./vite.config.ts"],"version":"5.8.3"}

@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Tu acompañante terapéutico y de bienestar cognitivo impulsado por IA local en tu dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
